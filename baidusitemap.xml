@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/22/hello/</loc>
+    <lastmod>2018-08-22T08:19:25.386Z</lastmod>
+    <data>
+        <display>
+        <title>hello</title>
+        <pubTime>2018-08-22T08:18:22.000Z</pubTime>
+        
+        <tag>zhonghua</tag>
+         
+         
+           
+             
+              <breadCrumb title="hello" url="http://yoursite.com/categories/hello/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/22/hello-world/</loc>
+    <lastmod>2018-08-22T08:02:43.003Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-08-22T03:32:33.268Z</pubTime>
+        
+        <tag>hexo教程</tag>
+         
+        <tag>学习</tag>
+         
+         
+           
+             
+              <breadCrumb title="教程" url="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
